@@ -1,0 +1,27 @@
+@font-face{
+    font-family: 'Popins';
+
+    src: url('../fonts/Poppins-Light.ttf');
+}
+@font-face{
+    font-family: 'popins-bold';
+
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+@font-face{
+    font-family: 'popins-medium';
+
+src: url('../fonts/Poppins-Medium.ttf');
+}
+
+@font-face{
+    font-family: 'urbanist';
+
+src: url('../fonts/Urbanist-VariableFont_wght.ttf');
+}
+
+@font-face{
+    font-family: 'worksans';
+
+src: url('../fonts/WorkSans-VariableFont_wght.ttf');
+}
